@@ -1,6 +1,5 @@
 {
   "name": "weather-finder",
-  "homepage": "https://Gomatheeswaran.github.io/weather-finder/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
